@@ -1,0 +1,13 @@
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\GLORIA DYAH PRAMESTI\Documents\Semester 6\Pemrograman Berbasis Kerangka Kerja\ETS\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
